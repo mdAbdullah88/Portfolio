@@ -1230,11 +1230,9 @@ a.work_i_link:hover {
 .contact_Section {
     background: #ff5200;
     padding: 35px;
-    border-radius: "3px";
-    -webkit-border-radius: "3px";
-    -moz-border-radius: "3px";
-    -ms-border-radius: "3px";
-    -o-border-radius: "3px";
+    border-radius: 3px;
+    position: relative;
+    margin-bottom: -70px;
 }
 
 .Subsribe_contact {
